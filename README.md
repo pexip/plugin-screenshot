@@ -1,3 +1,3 @@
-# Change Layout Plugin
+# Screenshot Plugin
 
-For documentation on the plugin, please refer to our docs here https://developer.pex.me/plugins/change-layout
+For documentation on the plugin, please refer to our docs here https://developer.pex.me/plugins/screenshot
