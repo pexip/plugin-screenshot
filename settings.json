@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "screenshot-1.0",
+      "srcURL": "plugins/screenshot/screenshot.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
